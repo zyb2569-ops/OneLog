@@ -1,0 +1,5 @@
+interface:
+  display_name: "Archive Task"
+  short_description: "Move a .work task to ~/agent-archive"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Init Workspace"
+  short_description: "Create working paths, AGENTS.md routing block, and CodeGraph index"
+policy:
+  allow_implicit_invocation: true

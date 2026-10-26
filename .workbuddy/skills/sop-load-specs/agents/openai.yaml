@@ -1,0 +1,5 @@
+interface:
+  display_name: "Load Specs"
+  short_description: "Numbered spec menu and hit counts"
+policy:
+  allow_implicit_invocation: true

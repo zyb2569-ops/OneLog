@@ -1,0 +1,5 @@
+interface:
+  display_name: "Start Task"
+  short_description: "Create a .work task folder"
+policy:
+  allow_implicit_invocation: true
